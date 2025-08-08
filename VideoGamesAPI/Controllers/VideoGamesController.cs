@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
@@ -14,6 +15,7 @@ namespace VideoGamesAPI.Controllers
         private readonly VideoGameDBContext _context = context;
 
 
+        [Authorize]
         [HttpGet]
         public async Task<ActionResult<List<VideoGame>>> GetVideoGames()
         {
@@ -27,6 +29,7 @@ namespace VideoGamesAPI.Controllers
 
 
         // get single video game
+        [Authorize]
         [HttpGet("{id}")]
         public async Task<ActionResult<VideoGame>> GetVideoGameById(int id)
         {
@@ -37,6 +40,7 @@ namespace VideoGamesAPI.Controllers
         }
 
         // create video game
+        [Authorize]
         [HttpPost]
         public async Task<ActionResult<VideoGame>> AddVideoGame(VideoGame newVideoGame)
         {
@@ -52,6 +56,7 @@ namespace VideoGamesAPI.Controllers
         }
 
         // updating
+        [Authorize]
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateVideoGame(int id, VideoGame updatedVideoGame)
         {
@@ -71,6 +76,7 @@ namespace VideoGamesAPI.Controllers
 
 
         // updating
+        [Authorize]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteVideoGame(int id)
         {
