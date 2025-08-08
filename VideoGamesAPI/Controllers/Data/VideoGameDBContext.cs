@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using VideoGamesAPI.Entities;
 using VideoGamesAPI.Models;
 
 
@@ -8,6 +9,9 @@ namespace VideoGamesAPI.Controllers.Data
     {
         public DbSet<VideoGame> VideoGames => Set<VideoGame>();
         public DbSet<VideoGameDetails> VideoGameDetails => Set<VideoGameDetails>();
+
+        // user auth tablewwwwwww
+        public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

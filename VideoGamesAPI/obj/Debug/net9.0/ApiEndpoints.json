@@ -1,5 +1,67 @@
 [
   {
+    "ContainingType": "VideoGamesAPI.Controllers.AuthController",
+    "Method": "AuthenticatedOnlyEndpoint",
+    "RelativePath": "api/Auth",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VideoGamesAPI.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "VideoGamesAPI.Models.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VideoGamesAPI.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "VideoGamesAPI.Models.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VideoGamesAPI.Entities.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "VideoGamesAPI.Controllers.VideoGamesController",
     "Method": "GetVideoGames",
     "RelativePath": "api/VideoGames",
@@ -9,7 +71,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[VideoGamesAPI.VideoGame, VideoGamesAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[VideoGamesAPI.Models.VideoGame, VideoGamesAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -29,13 +91,13 @@
     "Parameters": [
       {
         "Name": "newVideoGame",
-        "Type": "VideoGamesAPI.VideoGame",
+        "Type": "VideoGamesAPI.Models.VideoGame",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "VideoGamesAPI.VideoGame",
+        "Type": "VideoGamesAPI.Models.VideoGame",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -61,7 +123,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "VideoGamesAPI.VideoGame",
+        "Type": "VideoGamesAPI.Models.VideoGame",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -86,7 +148,7 @@
       },
       {
         "Name": "updatedVideoGame",
-        "Type": "VideoGamesAPI.VideoGame",
+        "Type": "VideoGamesAPI.Models.VideoGame",
         "IsRequired": true
       }
     ],

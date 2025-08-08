@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A22A9867-1DE3-40A9-B0C7-15A1EAFE8B03}|VideoGamesAPI\\VideoGamesAPI.csproj|c:\\users\\monamoe\\documents\\1_programming\\dotnetcore\\videogameapi\\videogamesapi\\videogamesapi\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A22A9867-1DE3-40A9-B0C7-15A1EAFE8B03}|VideoGamesAPI\\VideoGamesAPI.csproj|solutionrelative:videogamesapi\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A22A9867-1DE3-40A9-B0C7-15A1EAFE8B03}|VideoGamesAPI\\VideoGamesAPI.csproj|c:\\users\\monamoe\\documents\\1_programming\\dotnetcore\\videogameapi\\videogamesapi\\videogamesapi\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22A9867-1DE3-40A9-B0C7-15A1EAFE8B03}|VideoGamesAPI\\VideoGamesAPI.csproj|solutionrelative:videogamesapi\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A22A9867-1DE3-40A9-B0C7-15A1EAFE8B03}|VideoGamesAPI\\VideoGamesAPI.csproj|c:\\users\\monamoe\\documents\\1_programming\\dotnetcore\\videogameapi\\videogamesapi\\videogamesapi\\controllers\\videogamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A22A9867-1DE3-40A9-B0C7-15A1EAFE8B03}|VideoGamesAPI\\VideoGamesAPI.csproj|solutionrelative:videogamesapi\\controllers\\videogamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Migrations\\20250808045300_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VideoGamesAPI\\Migrations\\20250808045300_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A22A9867-1DE3-40A9-B0C7-15A1EAFE8B03}|VideoGamesAPI\\VideoGamesAPI.csproj|c:\\users\\monamoe\\documents\\1_programming\\dotnetcore\\videogameapi\\videogamesapi\\videogamesapi\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A22A9867-1DE3-40A9-B0C7-15A1EAFE8B03}|VideoGamesAPI\\VideoGamesAPI.csproj|solutionrelative:videogamesapi\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A22A9867-1DE3-40A9-B0C7-15A1EAFE8B03}|VideoGamesAPI\\VideoGamesAPI.csproj|c:\\users\\monamoe\\documents\\1_programming\\dotnetcore\\videogameapi\\videogamesapi\\videogamesapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22A9867-1DE3-40A9-B0C7-15A1EAFE8B03}|VideoGamesAPI\\VideoGamesAPI.csproj|solutionrelative:videogamesapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A22A9867-1DE3-40A9-B0C7-15A1EAFE8B03}|VideoGamesAPI\\VideoGamesAPI.csproj|c:\\users\\monamoe\\documents\\1_programming\\dotnetcore\\videogameapi\\videogamesapi\\videogamesapi\\models\\videogamedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A22A9867-1DE3-40A9-B0C7-15A1EAFE8B03}|VideoGamesAPI\\VideoGamesAPI.csproj|solutionrelative:videogamesapi\\models\\videogamedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A22A9867-1DE3-40A9-B0C7-15A1EAFE8B03}|VideoGamesAPI\\VideoGamesAPI.csproj|c:\\users\\monamoe\\documents\\1_programming\\dotnetcore\\videogameapi\\videogamesapi\\videogamesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22A9867-1DE3-40A9-B0C7-15A1EAFE8B03}|VideoGamesAPI\\VideoGamesAPI.csproj|solutionrelative:videogamesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22A9867-1DE3-40A9-B0C7-15A1EAFE8B03}|VideoGamesAPI\\VideoGamesAPI.csproj|c:\\users\\monamoe\\documents\\1_programming\\dotnetcore\\videogameapi\\videogamesapi\\videogamesapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22A9867-1DE3-40A9-B0C7-15A1EAFE8B03}|VideoGamesAPI\\VideoGamesAPI.csproj|solutionrelative:videogamesapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 371,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,55 +41,76 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Models\\Genre.cs",
-              "RelativeDocumentMoniker": "VideoGamesAPI\\Models\\Genre.cs",
-              "ToolTip": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Models\\Genre.cs",
-              "RelativeToolTip": "VideoGamesAPI\\Models\\Genre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T04:46:54.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Publisher.cs",
-              "DocumentMoniker": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Models\\Publisher.cs",
-              "RelativeDocumentMoniker": "VideoGamesAPI\\Models\\Publisher.cs",
-              "ToolTip": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Models\\Publisher.cs",
-              "RelativeToolTip": "VideoGamesAPI\\Models\\Publisher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T04:29:06.463Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VideoGamesController.cs",
-              "DocumentMoniker": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Controllers\\VideoGamesController.cs",
-              "RelativeDocumentMoniker": "VideoGamesAPI\\Controllers\\VideoGamesController.cs",
-              "ToolTip": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Controllers\\VideoGamesController.cs",
-              "RelativeToolTip": "VideoGamesAPI\\Controllers\\VideoGamesController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Title": "20250808045300_adduserrole.cs",
+              "DocumentMoniker": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Migrations\\20250808045300_adduserrole.cs",
+              "RelativeDocumentMoniker": "VideoGamesAPI\\Migrations\\20250808045300_adduserrole.cs",
+              "ToolTip": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Migrations\\20250808045300_adduserrole.cs",
+              "RelativeToolTip": "VideoGamesAPI\\Migrations\\20250808045300_adduserrole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T04:27:26.445Z",
+              "WhenOpened": "2025-08-08T04:53:01.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "VideoGamesAPI\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "VideoGamesAPI\\Services\\AuthService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T04:23:42.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "VideoGamesAPI\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Entities\\User.cs",
+              "RelativeToolTip": "VideoGamesAPI\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T04:22:38.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "VideoGameDetails.cs",
-              "DocumentMoniker": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Models\\VideoGameDetails.cs",
-              "RelativeDocumentMoniker": "VideoGamesAPI\\Models\\VideoGameDetails.cs",
-              "ToolTip": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Models\\VideoGameDetails.cs",
-              "RelativeToolTip": "VideoGamesAPI\\Models\\VideoGameDetails.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "VideoGamesAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Program.cs",
+              "RelativeToolTip": "VideoGamesAPI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T04:21:23.711Z",
+              "WhenOpened": "2025-08-08T04:13:39.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "VideoGamesAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\monamoe\\Documents\\1_Programming\\dotnetcore\\VideoGameAPI\\VideoGamesAPI\\VideoGamesAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "VideoGamesAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T03:54:57.648Z",
               "EditorCaption": ""
             }
           ]
