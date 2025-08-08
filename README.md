@@ -2,6 +2,14 @@
 
 A REST API for managing video game data built with ASP.NET Core 9.0, featuring JWT authentication, Entity Framework Core, and SQL Server database.
 
+
+
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/27aff69a-e6d3-4293-a8a8-0f7c2fb9dcf0" />
+
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/1a2a173a-fbce-4047-b1ce-0000d4550882" />
+
+
+
 ## 🎮 Features
 
 - **JWT Authentication**: Secure user registration and login with JWT tokens
@@ -28,7 +36,6 @@ A REST API for managing video game data built with ASP.NET Core 9.0, featuring J
 - **VideoGameDetails**: Extended game information
 - **User**: Authentication and user management
 
-- 
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -40,7 +47,6 @@ A REST API for managing video game data built with ASP.NET Core 9.0, featuring J
 ## 🔐 Authentication
 
 The API uses JWT Bearer token authentication. All video game endpoints require authentication.
-
 
 Login to get JWT token
 ```http
